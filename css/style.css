@@ -4,5 +4,21 @@
 /* Project name: */
 /* Description */
 
-h1 {color:rgb(199, 81, 13)}
-p{color:rgb(38, 187, 167)}
+body{color: rgb(37, 3, 37);}
+h1 {color:rgb(199, 81, 13);}
+
+
+/* Table style*/
+
+table {
+    border: none;
+    color: green;}
+
+td th {text-align: left;}
+
+thead th {
+    border-bottom: 2px solid #444444;
+    width: 120px;}
+
+tfoot td {
+    border-top: 1px solid #444444;}
