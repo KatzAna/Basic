@@ -4,15 +4,25 @@
 /* Project name: */
 /* Description */
 
-body{color: rgb(37, 3, 37);}
-h1 {color:rgb(199, 81, 13);}
+body{color:#5D6063;
+background-color: rgb(248, 246, 240);
+font-family: "Helvetica", "Arial", sans-serif;
+font-size: 14px;}
 
+
+h1, h2 {color:rgb(199, 81, 13);
+}
+
+
+h1{font-size: 2em;}
+
+h2{font-size: 1.5em;}
 
 /* Table style*/
 
 table {
     border: none;
-    color: green;}
+    color: rgb(26, 58, 26);}
 
 td th {text-align: left;}
 
